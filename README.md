@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @VijaydityaSarker</h1>
-<h3 align="center">A passionate Data Scientist and Software developer from India</h3>
+<h3 align="center">A passionate Data Scientist, Solana Developer, Software developer from Ireland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaydityasarker&label=Profile%20views&color=0e75b6&style=flat" alt="vijaydityasarker" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Machine Learning And Data Science**
 
-- 🌱 I’m currently learning **about new technologies and Algorithms in Data Science and Machine Learning**
+- 🌱 I’m currently learning **about new technologies and Algorithms in Data Science and Machine Learning also Solana development**
 
 - 👯 I’m looking to collaborate on **Fun & Open-Source Projects on Cloud Computing and Data Analytics**
 
