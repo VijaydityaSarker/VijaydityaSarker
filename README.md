@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @VijaydityaSarker</h1>
-<h3 align="center">A passionate Data Scientist, Solana Developer, Software developer from Ireland</h3>
+<h3 align="center">A passionate Data Scientist, Solana Developer and Software Developer from Ireland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaydityasarker&label=Profile%20views&color=0e75b6&style=flat" alt="vijaydityasarker" /> </p>
 
