@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaydityasarker" alt="vijaydityasarker" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning And Data Science**
+- 🔭 I’m currently working on ** Solana development, Machine Learning And Data Science**
 
 - 🌱 I’m currently learning **about new technologies and Algorithms in Data Science and Machine Learning also Solana development**
 
-- 👯 I’m looking to collaborate on **Fun & Open-Source Projects on Cloud Computing and Data Analytics**
+- 👯 I’m looking to collaborate on **Fun & Open-Source Projects on Blockchain, Cloud Computing and Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://vijaydityasarker.github.io/](https://vijaydityasarker.github.io/)
 
-- 💬 Ask me about **Python,sklearn,numpy,pandas**
+- 💬 Ask me about **Python,Rust,Solana,sklearn,numpy,pandas**
 
 - 📫 How to reach me **vijaydityasarker@gmail.com**
 
